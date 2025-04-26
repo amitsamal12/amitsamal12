@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsamal12&label=Profile%20views&color=0e75b6&style=flat" alt="amitsamal12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsamal12" alt="amitsamal12" /></a> </p>
-
-- 🔭 I’m currently working on **todo_fullstack_frontend**
-
 - 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **todo_fullstack_frontend**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
