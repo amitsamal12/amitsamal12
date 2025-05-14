@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [#](#)
-
 - 💬 Ask me about **react , vue**
 
-- 📫 How to reach me **amitsamal1998@gmail.com**
-
-- 📄 Know about my experiences [#](#)
+- 📫 How to reach me **aksamal.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
